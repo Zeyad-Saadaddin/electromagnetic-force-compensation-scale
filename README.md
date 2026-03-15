@@ -1,25 +1,38 @@
 # Electromagnetic Force-Compensation Scale
 
-Engineering project focused on the development of an electromagnetic force-compensation scale combining mechanical design, PCB development, and prototyping.
+![Electromagnetic Force-Compensation Scale](docs/README-assets/electromagnetic-force-compensation-scale-overview.png)
+
+*Overview of the electromagnetic force-compensation scale project.*
+
+Engineering project focused on the development of an electromagnetic force-compensation scale combining mechanical design, PCB development, embedded control, simulation, and prototyping.
 
 ## Project Overview
-This project involved the design and prototypical implementation of an electromagnetic force-compensation scale. The system combines mechanical components, electronic circuitry, and manufacturing-oriented design principles in one integrated engineering setup.
+This project involved the design and prototypical implementation of an electromagnetic force-compensation scale. The system combines mechanical components, electronic circuitry, control logic, and manufacturing-oriented design principles in one integrated engineering setup.
 
 ## Key Objectives
 - Develop a functional force-compensation scale concept
 - Combine mechanical, electronic, and manufacturing-related components
 - Design and implement an extension PCB for system control
+- Integrate embedded control and simulation-based development
 - Prototype structural and functional parts for practical implementation
 
 ## Core Components
 - Mechanical system design and integration
 - Extension PCB with MOSFET driver
 - PCB layout, fabrication, and assembly
+- STM32-based control implementation
+- MATLAB and Simulink-based modelling files
 - FDM-based 3D-printed housing and functional components
 
 ## Main Focus Areas
 - Mechanical design
 - PCB development
 - Electronics integration
+- Embedded control
+- Simulation and modelling
 - Prototyping and manufacturing
-- System implementation
+
+## Project Files
+- [STM32 main control code](code/stm32/main.c)
+- [MATLAB script](matlab/Waage1_matlab.m)
+- [Simulink model](simulink/Waage1_simulink.slx)
