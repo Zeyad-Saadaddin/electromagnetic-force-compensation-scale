@@ -1,8 +1,8 @@
 # Electromagnetic Force-Compensation Scale
 
 <p align="center">
-  <img src="docs/README-assets/electromagnetic-force-compensation-scale-overview.jpeg" alt="Overview" width="320">
-  <img src="docs/README-assets/electromagnetic-force-compensation-scale-section-view.jpeg" alt="Section view" width="320">
+  <img src="docs/README-assets/electromagnetic-force-compensation-scale-overview.png" alt="Overview" width="320">
+  <img src="docs/README-assets/electromagnetic-force-compensation-scale-section-view.png" alt="Section view" width="320">
 </p>
 
 <p align="center"><em>Project overview and section view of the electromagnetic force-compensation scale.</em></p>
