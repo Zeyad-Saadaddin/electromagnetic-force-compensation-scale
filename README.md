@@ -1,8 +1,11 @@
 # Electromagnetic Force-Compensation Scale
 
-![Electromagnetic Force-Compensation Scale](docs/README-assets/electromagnetic-force-compensation-scale-overview.png)
+<p align="center">
+  <img src="docs/README-assets/electromagnetic-force-compensation-scale-overview.jpeg" alt="Overview" width="320">
+  <img src="docs/README-assets/electromagnetic-force-compensation-scale-section-view.jpeg" alt="Section view" width="320">
+</p>
 
-*Overview of the electromagnetic force-compensation scale project.*
+<p align="center"><em>Project overview and section view of the electromagnetic force-compensation scale.</em></p>
 
 Engineering project focused on the development of an electromagnetic force-compensation scale combining mechanical design, PCB development, embedded control, simulation, and prototyping.
 
