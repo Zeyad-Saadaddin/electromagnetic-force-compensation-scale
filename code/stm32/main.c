@@ -2,7 +2,7 @@
 /**
  ******************************************************************************
  * @file           : main.c
- * @brief          : Main program body for EMKW group alpha
+ * @brief          : Main program body for Zeyad Saadaddin
  ******************************************************************************
  * @attention
  *
